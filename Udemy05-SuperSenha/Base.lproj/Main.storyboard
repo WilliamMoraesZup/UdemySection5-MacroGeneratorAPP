@@ -170,7 +170,7 @@
                         </constraints>
                     </view>
                     <navigationItem key="navigationItem" title="Calculadora de Macros" id="l0z-yQ-lnr">
-                        <barButtonItem key="backBarButtonItem" title="Gerador de Senhas" id="z6J-gU-Zqv"/>
+                        <barButtonItem key="backBarButtonItem" title="Calculadora de Macros" id="z6J-gU-Zqv"/>
                     </navigationItem>
                     <connections>
                         <outlet property="optShowKcal" destination="dcf-y8-qTq" id="Ayf-bN-VAz"/>
